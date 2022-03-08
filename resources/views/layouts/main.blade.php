@@ -49,7 +49,7 @@
     </head>
     @yield('contet')
     <footer>
-        <p>Valdeir &copy; 2022</p>
+        <p>Telecentro Valdeir &copy; 2022</p>
     </footer>
     {{--Ícones de código aberto--}}
     <script src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"> </script>
